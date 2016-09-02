@@ -1,0 +1,157 @@
+F:\源程序\two_cameras_vision_src\obj\Debug\Two Cameras Vision.csprojResolveAssemblyReference.cache
+F:\源程序\two_cameras_vision_src\obj\Debug\TwoCamerasVision.DetectedObjectsForm.resources
+F:\源程序\two_cameras_vision_src\obj\Debug\TwoCamerasVision.MainForm.resources
+F:\源程序\two_cameras_vision_src\obj\Debug\TwoCamerasVision.MoveCamerasForm.resources
+F:\源程序\two_cameras_vision_src\obj\Debug\TwoCamerasVision.Properties.Resources.resources
+F:\源程序\two_cameras_vision_src\obj\Debug\TwoCamerasVision.TuneObjectFilterForm.resources
+F:\源程序\two_cameras_vision_src\obj\Debug\Two Cameras Vision.csproj.GenerateResource.Cache
+C:\Users\YXM-admin\Desktop\无人机\起始程序\bin\Debug\Two Cameras Vision.exe
+C:\Users\YXM-admin\Desktop\无人机\起始程序\bin\Debug\Two Cameras Vision.pdb
+C:\Users\YXM-admin\Desktop\无人机\起始程序\bin\Debug\AForge.Controls.dll
+C:\Users\YXM-admin\Desktop\无人机\起始程序\bin\Debug\AForge.dll
+C:\Users\YXM-admin\Desktop\无人机\起始程序\bin\Debug\AForge.Imaging.dll
+C:\Users\YXM-admin\Desktop\无人机\起始程序\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\YXM-admin\Desktop\无人机\起始程序\bin\Debug\AForge.Video.dll
+C:\Users\YXM-admin\Desktop\无人机\起始程序\obj\Debug\TwoCamerasVision.DetectedObjectsForm.resources
+C:\Users\YXM-admin\Desktop\无人机\起始程序\obj\Debug\TwoCamerasVision.MainActivety.resources
+C:\Users\YXM-admin\Desktop\无人机\起始程序\obj\Debug\TwoCamerasVision.Properties.Resources.resources
+C:\Users\YXM-admin\Desktop\无人机\起始程序\obj\Debug\TwoCamerasVision.TuneObjectFilterForm.resources
+C:\Users\YXM-admin\Desktop\无人机\起始程序\obj\Debug\Two Cameras Vision.csproj.GenerateResource.Cache
+C:\Users\YXM-admin\Desktop\无人机\起始程序\obj\Debug\Two Cameras Vision.exe
+C:\Users\YXM-admin\Desktop\无人机\起始程序\obj\Debug\Two Cameras Vision.pdb
+C:\Users\YXM-admin\Desktop\无人机\起始程序\obj\Debug\Two Cameras Vision.csprojResolveAssemblyReference.cache
+F:\源程序\起始程序\bin\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\起始程序\bin\Debug\Two Cameras Vision.application
+F:\源程序\起始程序\bin\Debug\Two Cameras Vision.exe
+F:\源程序\起始程序\bin\Debug\Two Cameras Vision.pdb
+F:\源程序\起始程序\bin\Debug\AForge.Controls.dll
+F:\源程序\起始程序\bin\Debug\AForge.dll
+F:\源程序\起始程序\bin\Debug\AForge.Imaging.dll
+F:\源程序\起始程序\bin\Debug\AForge.Video.DirectShow.dll
+F:\源程序\起始程序\bin\Debug\AForge.Video.dll
+F:\源程序\起始程序\obj\Debug\Two Cameras Vision.csprojResolveAssemblyReference.cache
+F:\源程序\起始程序\obj\Debug\TwoCamerasVision.DetectedObjectsForm.resources
+F:\源程序\起始程序\obj\Debug\TwoCamerasVision.MainActivety.resources
+F:\源程序\起始程序\obj\Debug\TwoCamerasVision.Properties.Resources.resources
+F:\源程序\起始程序\obj\Debug\TwoCamerasVision.TuneObjectFilterForm.resources
+F:\源程序\起始程序\obj\Debug\Two Cameras Vision.csproj.GenerateResource.Cache
+F:\源程序\起始程序\obj\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\起始程序\obj\Debug\Two Cameras Vision.application
+F:\源程序\起始程序\obj\Debug\Two Cameras Vision.exe
+F:\源程序\起始程序\obj\Debug\Two Cameras Vision.pdb
+F:\源程序\1月17日改\obj\Debug\Two Cameras Vision.exe
+F:\源程序\1月17日改\obj\Debug\Two Cameras Vision.pdb
+F:\源程序\1月17日改\bin\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\1月17日改\bin\Debug\Two Cameras Vision.application
+F:\源程序\1月17日改\bin\Debug\Two Cameras Vision.exe
+F:\源程序\1月17日改\bin\Debug\Two Cameras Vision.pdb
+F:\源程序\1月17日改\bin\Debug\AForge.Controls.dll
+F:\源程序\1月17日改\bin\Debug\AForge.dll
+F:\源程序\1月17日改\bin\Debug\AForge.Imaging.dll
+F:\源程序\1月17日改\bin\Debug\AForge.Video.DirectShow.dll
+F:\源程序\1月17日改\bin\Debug\AForge.Video.dll
+F:\源程序\1月17日改\obj\Debug\Two Cameras Vision.csprojResolveAssemblyReference.cache
+F:\源程序\1月17日改\obj\Debug\TwoCamerasVision.DetectedObjectsForm.resources
+F:\源程序\1月17日改\obj\Debug\TwoCamerasVision.MainActivety.resources
+F:\源程序\1月17日改\obj\Debug\TwoCamerasVision.Properties.Resources.resources
+F:\源程序\1月17日改\obj\Debug\TwoCamerasVision.TuneObjectFilterForm.resources
+F:\源程序\1月17日改\obj\Debug\Two Cameras Vision.csproj.GenerateResource.Cache
+F:\源程序\1月17日改\obj\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\1月17日改\obj\Debug\Two Cameras Vision.application
+F:\源程序\1月18日\obj\Debug\Two Cameras Vision.exe
+F:\源程序\1月18日\obj\Debug\Two Cameras Vision.pdb
+F:\源程序\1月18日\bin\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\1月18日\bin\Debug\Two Cameras Vision.application
+F:\源程序\1月18日\bin\Debug\Two Cameras Vision.exe
+F:\源程序\1月18日\bin\Debug\Two Cameras Vision.pdb
+F:\源程序\1月18日\bin\Debug\AForge.Controls.dll
+F:\源程序\1月18日\bin\Debug\AForge.dll
+F:\源程序\1月18日\bin\Debug\AForge.Imaging.dll
+F:\源程序\1月18日\bin\Debug\AForge.Video.DirectShow.dll
+F:\源程序\1月18日\bin\Debug\AForge.Video.dll
+F:\源程序\1月18日\obj\Debug\TwoCamerasVision.DetectedObjectsForm.resources
+F:\源程序\1月18日\obj\Debug\TwoCamerasVision.MainActivety.resources
+F:\源程序\1月18日\obj\Debug\TwoCamerasVision.Properties.Resources.resources
+F:\源程序\1月18日\obj\Debug\TwoCamerasVision.TuneObjectFilterForm.resources
+F:\源程序\1月18日\obj\Debug\Two Cameras Vision.csproj.GenerateResource.Cache
+F:\源程序\1月18日\obj\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\1月18日\obj\Debug\Two Cameras Vision.application
+F:\源程序\1月18日\obj\Debug\Two Cameras Vision.csprojResolveAssemblyReference.cache
+F:\源程序\1月19日\obj\Debug\Two Cameras Vision.exe
+F:\源程序\1月19日\obj\Debug\Two Cameras Vision.pdb
+F:\源程序\1月19日\obj\Debug\TwoCamerasVision.DetectedObjectsForm.resources
+F:\源程序\1月19日\obj\Debug\TwoCamerasVision.MainActivety.resources
+F:\源程序\1月19日\obj\Debug\TwoCamerasVision.Properties.Resources.resources
+F:\源程序\1月19日\obj\Debug\TwoCamerasVision.TuneObjectFilterForm.resources
+F:\源程序\1月19日\obj\Debug\Two Cameras Vision.csproj.GenerateResource.Cache
+F:\源程序\1月19日\bin\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\1月19日\bin\Debug\Two Cameras Vision.application
+F:\源程序\1月19日\bin\Debug\Two Cameras Vision.exe
+F:\源程序\1月19日\bin\Debug\Two Cameras Vision.pdb
+F:\源程序\1月19日\bin\Debug\AForge.Controls.dll
+F:\源程序\1月19日\bin\Debug\AForge.dll
+F:\源程序\1月19日\bin\Debug\AForge.Imaging.dll
+F:\源程序\1月19日\bin\Debug\AForge.Video.DirectShow.dll
+F:\源程序\1月19日\bin\Debug\AForge.Video.dll
+F:\源程序\1月19日\obj\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\1月19日\obj\Debug\Two Cameras Vision.application
+F:\源程序\1月19日\obj\Debug\Two Cameras Vision.csprojResolveAssemblyReference.cache
+F:\源程序\1月21日\obj\Debug\Two Cameras Vision.exe
+F:\源程序\1月21日\obj\Debug\Two Cameras Vision.pdb
+F:\源程序\1月21日\bin\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\1月21日\bin\Debug\Two Cameras Vision.application
+F:\源程序\1月21日\bin\Debug\Two Cameras Vision.exe
+F:\源程序\1月21日\bin\Debug\Two Cameras Vision.pdb
+F:\源程序\1月21日\bin\Debug\AForge.Controls.dll
+F:\源程序\1月21日\bin\Debug\AForge.dll
+F:\源程序\1月21日\bin\Debug\AForge.Imaging.dll
+F:\源程序\1月21日\bin\Debug\AForge.Video.DirectShow.dll
+F:\源程序\1月21日\bin\Debug\AForge.Video.dll
+F:\源程序\1月21日\obj\Debug\Two Cameras Vision.csprojResolveAssemblyReference.cache
+F:\源程序\1月21日\obj\Debug\TwoCamerasVision.DetectedObjectsForm.resources
+F:\源程序\1月21日\obj\Debug\TwoCamerasVision.MainActivety.resources
+F:\源程序\1月21日\obj\Debug\TwoCamerasVision.Properties.Resources.resources
+F:\源程序\1月21日\obj\Debug\TwoCamerasVision.TuneObjectFilterForm.resources
+F:\源程序\1月21日\obj\Debug\Two Cameras Vision.csproj.GenerateResource.Cache
+F:\源程序\1月21日\obj\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\1月21日\obj\Debug\Two Cameras Vision.application
+F:\源程序\1月22日无人机云台程序\obj\Debug\Two Cameras Vision.exe
+F:\源程序\1月22日无人机云台程序\obj\Debug\Two Cameras Vision.pdb
+F:\源程序\1月22日无人机云台程序\bin\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\1月22日无人机云台程序\bin\Debug\Two Cameras Vision.application
+F:\源程序\1月22日无人机云台程序\bin\Debug\Two Cameras Vision.exe
+F:\源程序\1月22日无人机云台程序\bin\Debug\Two Cameras Vision.pdb
+F:\源程序\1月22日无人机云台程序\bin\Debug\AForge.Controls.dll
+F:\源程序\1月22日无人机云台程序\bin\Debug\AForge.dll
+F:\源程序\1月22日无人机云台程序\bin\Debug\AForge.Imaging.dll
+F:\源程序\1月22日无人机云台程序\bin\Debug\AForge.Video.DirectShow.dll
+F:\源程序\1月22日无人机云台程序\bin\Debug\AForge.Video.dll
+F:\源程序\1月22日无人机云台程序\obj\Debug\Two Cameras Vision.csprojResolveAssemblyReference.cache
+F:\源程序\1月22日无人机云台程序\obj\Debug\TwoCamerasVision.DetectedObjectsForm.resources
+F:\源程序\1月22日无人机云台程序\obj\Debug\TwoCamerasVision.MainActivety.resources
+F:\源程序\1月22日无人机云台程序\obj\Debug\TwoCamerasVision.Properties.Resources.resources
+F:\源程序\1月22日无人机云台程序\obj\Debug\TwoCamerasVision.TuneObjectFilterForm.resources
+F:\源程序\1月22日无人机云台程序\obj\Debug\Two Cameras Vision.csproj.GenerateResource.Cache
+F:\源程序\1月22日无人机云台程序\obj\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\1月22日无人机云台程序\obj\Debug\Two Cameras Vision.application
+F:\源程序\无人机云台程序\obj\Debug\Two Cameras Vision.exe
+F:\源程序\无人机云台程序\obj\Debug\Two Cameras Vision.pdb
+F:\源程序\无人机云台程序\bin\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\无人机云台程序\bin\Debug\Two Cameras Vision.application
+F:\源程序\无人机云台程序\bin\Debug\Two Cameras Vision.exe
+F:\源程序\无人机云台程序\bin\Debug\Two Cameras Vision.pdb
+F:\源程序\无人机云台程序\bin\Debug\AForge.Controls.dll
+F:\源程序\无人机云台程序\bin\Debug\AForge.dll
+F:\源程序\无人机云台程序\bin\Debug\AForge.Imaging.dll
+F:\源程序\无人机云台程序\bin\Debug\AForge.Video.DirectShow.dll
+F:\源程序\无人机云台程序\bin\Debug\AForge.Video.dll
+F:\源程序\无人机云台程序\obj\Debug\Two Cameras Vision.csprojResolveAssemblyReference.cache
+F:\源程序\无人机云台程序\obj\Debug\TwoCamerasVision.DetectedObjectsForm.resources
+F:\源程序\无人机云台程序\obj\Debug\TwoCamerasVision.MainActivety.resources
+F:\源程序\无人机云台程序\obj\Debug\TwoCamerasVision.Properties.Resources.resources
+F:\源程序\无人机云台程序\obj\Debug\TwoCamerasVision.TuneObjectFilterForm.resources
+F:\源程序\无人机云台程序\obj\Debug\Two Cameras Vision.csproj.GenerateResource.Cache
+F:\源程序\无人机云台程序\obj\Debug\Two Cameras Vision.exe.manifest
+F:\源程序\无人机云台程序\obj\Debug\Two Cameras Vision.application
+D:\Git\test\new-bee\double vision sourse\obj\Debug\Two Cameras Vision.exe
+D:\Git\test\new-bee\double vision sourse\obj\Debug\Two Cameras Vision.pdb

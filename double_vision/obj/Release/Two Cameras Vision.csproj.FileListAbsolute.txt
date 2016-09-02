@@ -1,0 +1,34 @@
+F:\源程序\起始程序\bin\Release\Two Cameras Vision.exe
+F:\源程序\起始程序\bin\Release\Two Cameras Vision.pdb
+F:\源程序\起始程序\bin\Release\AForge.Controls.dll
+F:\源程序\起始程序\bin\Release\AForge.dll
+F:\源程序\起始程序\bin\Release\AForge.Imaging.dll
+F:\源程序\起始程序\bin\Release\AForge.Video.DirectShow.dll
+F:\源程序\起始程序\bin\Release\AForge.Video.dll
+F:\源程序\起始程序\obj\Release\TwoCamerasVision.DetectedObjectsForm.resources
+F:\源程序\起始程序\obj\Release\TwoCamerasVision.MainActivety.resources
+F:\源程序\起始程序\obj\Release\TwoCamerasVision.Properties.Resources.resources
+F:\源程序\起始程序\obj\Release\TwoCamerasVision.TuneObjectFilterForm.resources
+F:\源程序\起始程序\obj\Release\Two Cameras Vision.csproj.GenerateResource.Cache
+F:\源程序\起始程序\obj\Release\Two Cameras Vision.exe
+F:\源程序\起始程序\obj\Release\Two Cameras Vision.pdb
+F:\源程序\起始程序\obj\Release\Two Cameras Vision.csprojResolveAssemblyReference.cache
+F:\源程序\无人机云台程序\obj\Release\Two Cameras Vision.exe
+F:\源程序\无人机云台程序\obj\Release\Two Cameras Vision.pdb
+F:\源程序\无人机云台程序\bin\Release\Two Cameras Vision.exe.manifest
+F:\源程序\无人机云台程序\bin\Release\Two Cameras Vision.application
+F:\源程序\无人机云台程序\bin\Release\Two Cameras Vision.exe
+F:\源程序\无人机云台程序\bin\Release\Two Cameras Vision.pdb
+F:\源程序\无人机云台程序\bin\Release\AForge.Controls.dll
+F:\源程序\无人机云台程序\bin\Release\AForge.dll
+F:\源程序\无人机云台程序\bin\Release\AForge.Imaging.dll
+F:\源程序\无人机云台程序\bin\Release\AForge.Video.DirectShow.dll
+F:\源程序\无人机云台程序\bin\Release\AForge.Video.dll
+F:\源程序\无人机云台程序\obj\Release\Two Cameras Vision.csprojResolveAssemblyReference.cache
+F:\源程序\无人机云台程序\obj\Release\TwoCamerasVision.DetectedObjectsForm.resources
+F:\源程序\无人机云台程序\obj\Release\TwoCamerasVision.MainActivety.resources
+F:\源程序\无人机云台程序\obj\Release\TwoCamerasVision.Properties.Resources.resources
+F:\源程序\无人机云台程序\obj\Release\TwoCamerasVision.TuneObjectFilterForm.resources
+F:\源程序\无人机云台程序\obj\Release\Two Cameras Vision.csproj.GenerateResource.Cache
+F:\源程序\无人机云台程序\obj\Release\Two Cameras Vision.exe.manifest
+F:\源程序\无人机云台程序\obj\Release\Two Cameras Vision.application
