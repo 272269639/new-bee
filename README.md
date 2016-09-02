@@ -1,3 +1,3 @@
 # new-bee
-菜鸟
-第一次使用。。。。多指教
+  This is my first in the github.
+
